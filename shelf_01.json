@@ -1,0 +1,3720 @@
+{
+  "image_name": "shelf_01.jpg",
+  "total_products": 200,
+  "brands": {
+    "Other": 105,
+    "Tropicana": 12,
+    "Minute Maid": 11,
+    "Coca-Cola": 7,
+    "Red Bull": 6,
+    "Gatorade": 6,
+    "Limca": 6,
+    "Mountain Dew": 5,
+    "Fanta": 5,
+    "Thums Up": 5,
+    "Nestle": 4,
+    "Paper Boat": 4,
+    "Nescafe": 4,
+    "Amul": 4,
+    "Pepsi": 4,
+    "7UP": 4,
+    "Sprite": 3,
+    "Dark Fantasy": 3,
+    "Pringles": 1,
+    "Activia": 1
+  },
+  "ocr_labels": [
+    "Red)",
+    "Rsol",
+    "Miaite",
+    "Miaide",
+    "Miaude",
+    "Miaute",
+    "Orange",
+    "Mixed",
+    "Mixed",
+    "Guava",
+    "Pomegramete",
+    "APPLE",
+    "Fruct",
+    "Frwt",
+    "125",
+    "99",
+    "105",
+    "FANTA | FANT",
+    "FANTA",
+    "Limca",
+    "Limca",
+    "Limc",
+    "X",
+    "50",
+    "50",
+    "55",
+    "50",
+    "50",
+    "50",
+    "FANTA",
+    "Goomi",
+    "Cod mi",
+    "ccomi",
+    "G00 ml",
+    "coomi",
+    "Llpton",
+    "Mpton",
+    "Lpton]",
+    "@pton",
+    "up",
+    "Up",
+    "pepsi",
+    "pepsi",
+    "pepsi",
+    "pepsi",
+    "Lunon",
+    "Lomun",
+    "Pandhi",
+    "Paxh",
+    "60",
+    "60",
+    "50",
+    "50",
+    "50",
+    "50",
+    "Jup",
+    "Mininda",
+    "Pepsi",
+    "So0 mi",
+    "Coo ri",
+    "Godmi",
+    "Goom",
+    "B",
+    "B",
+    "B",
+    "B",
+    "Bozr",
+    "Paper",
+    "Paper",
+    "Amul",
+    "Amul",
+    "Amul",
+    "'boat",
+    "'boat",
+    "Mixed Fruit",
+    "Orange",
+    "Orange",
+    "BBull RedBdl RedBul",
+    "NescaFE",
+    "(Nescafe",
+    "NescaFe",
+    "CaTORADE",
+    "aen",
+    "8",
+    "panna",
+    "40",
+    "35",
+    "75",
+    "110",
+    "40",
+    "30",
+    "8 MATURAL",
+    "ReO BULL",
+    "NescaFE",
+    "Soomi",
+    "250 mi",
+    "Rlo",
+    "Rid",
+    "FANTA",
+    "Mope",
+    "TEE",
+    "ZEZ",
+    "ZE",
+    "NESTEA",
+    "NESTEA",
+    "NESTEA",
+    "Natural",
+    "Natural",
+    "Noturol",
+    "Noturol",
+    "Ko"
+  ],
+  "share_of_shelf_estimate": {
+    "Other": 0.4748,
+    "Tropicana": 0.0754,
+    "Minute Maid": 0.0749,
+    "Coca-Cola": 0.0365,
+    "Gatorade": 0.0351,
+    "Limca": 0.0316,
+    "Red Bull": 0.0296,
+    "Fanta": 0.0281,
+    "Thums Up": 0.0266,
+    "Mountain Dew": 0.0236,
+    "Amul": 0.0224,
+    "Nescafe": 0.0218,
+    "Paper Boat": 0.0218,
+    "7UP": 0.019,
+    "Pepsi": 0.0181,
+    "Nestle": 0.0179,
+    "Sprite": 0.0154,
+    "Dark Fantasy": 0.0133,
+    "Pringles": 0.0074,
+    "Activia": 0.0065
+  },
+  "shelf_rows": [
+    {
+      "y1": 0,
+      "y2": 82
+    },
+    {
+      "y1": 82,
+      "y2": 118
+    },
+    {
+      "y1": 118,
+      "y2": 164
+    },
+    {
+      "y1": 164,
+      "y2": 231
+    },
+    {
+      "y1": 231,
+      "y2": 414
+    },
+    {
+      "y1": 414,
+      "y2": 649
+    },
+    {
+      "y1": 649,
+      "y2": 695
+    },
+    {
+      "y1": 695,
+      "y2": 941
+    },
+    {
+      "y1": 941,
+      "y2": 1086
+    }
+  ],
+  "detections": [
+    {
+      "bbox": [
+        1065.96,
+        589.23,
+        1127.23,
+        790.4
+      ],
+      "detector_class": "object",
+      "confidence": 0.8822,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.5657
+    },
+    {
+      "bbox": [
+        869.18,
+        876.31,
+        927.88,
+        1040.48
+      ],
+      "detector_class": "object",
+      "confidence": 0.8811,
+      "brand": "Red Bull",
+      "brand_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        939.88,
+        589.59,
+        1002.0,
+        790.19
+      ],
+      "detector_class": "object",
+      "confidence": 0.8799,
+      "brand": "Other",
+      "brand_confidence": 0.3638
+    },
+    {
+      "bbox": [
+        721.31,
+        842.2,
+        796.3,
+        1040.58
+      ],
+      "detector_class": "object",
+      "confidence": 0.8771,
+      "brand": "Gatorade",
+      "brand_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        199.38,
+        590.26,
+        257.52,
+        790.49
+      ],
+      "detector_class": "object",
+      "confidence": 0.8768,
+      "brand": "Nestle",
+      "brand_confidence": 0.7154
+    },
+    {
+      "bbox": [
+        486.61,
+        842.66,
+        562.67,
+        1040.57
+      ],
+      "detector_class": "object",
+      "confidence": 0.8765,
+      "brand": "Gatorade",
+      "brand_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        565.03,
+        843.13,
+        639.41,
+        1040.43
+      ],
+      "detector_class": "object",
+      "confidence": 0.8763,
+      "brand": "Gatorade",
+      "brand_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        559.64,
+        585.54,
+        621.31,
+        790.11
+      ],
+      "detector_class": "object",
+      "confidence": 0.875,
+      "brand": "Mountain Dew",
+      "brand_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        941.14,
+        309.87,
+        1012.27,
+        529.99
+      ],
+      "detector_class": "object",
+      "confidence": 0.8735,
+      "brand": "Fanta",
+      "brand_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        1223.77,
+        443.87,
+        1290.37,
+        527.24
+      ],
+      "detector_class": "object",
+      "confidence": 0.873,
+      "brand": "Other",
+      "brand_confidence": 0.1859
+    },
+    {
+      "bbox": [
+        20.01,
+        589.92,
+        79.05,
+        788.83
+      ],
+      "detector_class": "object",
+      "confidence": 0.8726,
+      "brand": "Nestle",
+      "brand_confidence": 0.8055
+    },
+    {
+      "bbox": [
+        275.48,
+        850.99,
+        342.21,
+        1040.36
+      ],
+      "detector_class": "object",
+      "confidence": 0.8723,
+      "brand": "Paper Boat",
+      "brand_confidence": 0.9918
+    },
+    {
+      "bbox": [
+        993.04,
+        852.79,
+        1059.3,
+        1039.51
+      ],
+      "detector_class": "object",
+      "confidence": 0.872,
+      "brand": "Nescafe",
+      "brand_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        1013.62,
+        309.08,
+        1082.2,
+        530.12
+      ],
+      "detector_class": "object",
+      "confidence": 0.8713,
+      "brand": "Fanta",
+      "brand_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        344.1,
+        850.39,
+        409.64,
+        1040.78
+      ],
+      "detector_class": "object",
+      "confidence": 0.871,
+      "brand": "Paper Boat",
+      "brand_confidence": 0.9872
+    },
+    {
+      "bbox": [
+        1359.07,
+        310.86,
+        1427.55,
+        529.89
+      ],
+      "detector_class": "object",
+      "confidence": 0.871,
+      "brand": "Limca",
+      "brand_confidence": 1.0
+    },
+    {
+      "bbox": [
+        1128.4,
+        588.83,
+        1189.29,
+        790.57
+      ],
+      "detector_class": "object",
+      "confidence": 0.869,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.6542
+    },
+    {
+      "bbox": [
+        1276.67,
+        865.36,
+        1345.46,
+        1040.2
+      ],
+      "detector_class": "object",
+      "confidence": 0.8685,
+      "brand": "Amul",
+      "brand_confidence": 0.9861
+    },
+    {
+      "bbox": [
+        1290.74,
+        310.75,
+        1357.58,
+        530.37
+      ],
+      "detector_class": "object",
+      "confidence": 0.868,
+      "brand": "Limca",
+      "brand_confidence": 1.0
+    },
+    {
+      "bbox": [
+        1249.52,
+        589.49,
+        1307.5,
+        789.38
+      ],
+      "detector_class": "object",
+      "confidence": 0.8677,
+      "brand": "Pepsi",
+      "brand_confidence": 0.9865
+    },
+    {
+      "bbox": [
+        1084.12,
+        306.43,
+        1153.54,
+        525.39
+      ],
+      "detector_class": "object",
+      "confidence": 0.8675,
+      "brand": "Fanta",
+      "brand_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        444.97,
+        31.85,
+        535.14,
+        240.22
+      ],
+      "detector_class": "object",
+      "confidence": 0.8662,
+      "brand": "Tropicana",
+      "brand_confidence": 0.9903
+    },
+    {
+      "bbox": [
+        1155.37,
+        442.75,
+        1222.75,
+        527.25
+      ],
+      "detector_class": "object",
+      "confidence": 0.8661,
+      "brand": "Other",
+      "brand_confidence": 0.3872
+    },
+    {
+      "bbox": [
+        1348.92,
+        864.66,
+        1420.12,
+        1040.94
+      ],
+      "detector_class": "object",
+      "confidence": 0.8656,
+      "brand": "Amul",
+      "brand_confidence": 0.9833
+    },
+    {
+      "bbox": [
+        1204.95,
+        866.5,
+        1273.19,
+        1040.42
+      ],
+      "detector_class": "object",
+      "confidence": 0.8653,
+      "brand": "Amul",
+      "brand_confidence": 0.979
+    },
+    {
+      "bbox": [
+        1132.03,
+        852.35,
+        1201.1,
+        1040.75
+      ],
+      "detector_class": "object",
+      "confidence": 0.865,
+      "brand": "Nescafe",
+      "brand_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        1003.34,
+        590.57,
+        1064.03,
+        792.46
+      ],
+      "detector_class": "object",
+      "confidence": 0.8649,
+      "brand": "Limca",
+      "brand_confidence": 0.5489
+    },
+    {
+      "bbox": [
+        412.16,
+        850.29,
+        481.99,
+        1039.54
+      ],
+      "detector_class": "object",
+      "confidence": 0.8637,
+      "brand": "Paper Boat",
+      "brand_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        870.95,
+        585.82,
+        935.3,
+        790.32
+      ],
+      "detector_class": "object",
+      "confidence": 0.8633,
+      "brand": "7UP",
+      "brand_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        139.37,
+        591.99,
+        196.37,
+        791.72
+      ],
+      "detector_class": "object",
+      "confidence": 0.8625,
+      "brand": "Nestle",
+      "brand_confidence": 0.5797
+    },
+    {
+      "bbox": [
+        1062.12,
+        851.94,
+        1128.84,
+        1041.2
+      ],
+      "detector_class": "object",
+      "confidence": 0.8614,
+      "brand": "Nescafe",
+      "brand_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        358.13,
+        32.41,
+        442.73,
+        239.66
+      ],
+      "detector_class": "object",
+      "confidence": 0.8613,
+      "brand": "Tropicana",
+      "brand_confidence": 0.639
+    },
+    {
+      "bbox": [
+        930.17,
+        876.31,
+        989.8,
+        1039.74
+      ],
+      "detector_class": "object",
+      "confidence": 0.861,
+      "brand": "Red Bull",
+      "brand_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        99.27,
+        30.68,
+        182.98,
+        241.39
+      ],
+      "detector_class": "object",
+      "confidence": 0.8594,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.8613
+    },
+    {
+      "bbox": [
+        270.66,
+        30.61,
+        356.26,
+        240.32
+      ],
+      "detector_class": "object",
+      "confidence": 0.8588,
+      "brand": "Tropicana",
+      "brand_confidence": 0.9275
+    },
+    {
+      "bbox": [
+        163.31,
+        306.14,
+        227.94,
+        527.94
+      ],
+      "detector_class": "object",
+      "confidence": 0.8583,
+      "brand": "Sprite",
+      "brand_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        807.74,
+        587.97,
+        869.53,
+        791.54
+      ],
+      "detector_class": "object",
+      "confidence": 0.8576,
+      "brand": "7UP",
+      "brand_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        1191.19,
+        589.61,
+        1247.25,
+        791.01
+      ],
+      "detector_class": "object",
+      "confidence": 0.8574,
+      "brand": "Pepsi",
+      "brand_confidence": 0.9728
+    },
+    {
+      "bbox": [
+        209.36,
+        855.46,
+        271.45,
+        1040.38
+      ],
+      "detector_class": "object",
+      "confidence": 0.8572,
+      "brand": "Tropicana",
+      "brand_confidence": 0.6309
+    },
+    {
+      "bbox": [
+        88.5,
+        856.33,
+        146.61,
+        1038.99
+      ],
+      "detector_class": "object",
+      "confidence": 0.8571,
+      "brand": "Tropicana",
+      "brand_confidence": 0.8564
+    },
+    {
+      "bbox": [
+        642.26,
+        841.43,
+        718.11,
+        1039.29
+      ],
+      "detector_class": "object",
+      "confidence": 0.857,
+      "brand": "Gatorade",
+      "brand_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        436.81,
+        300.39,
+        503.96,
+        526.42
+      ],
+      "detector_class": "object",
+      "confidence": 0.857,
+      "brand": "Coca-Cola",
+      "brand_confidence": 0.9663
+    },
+    {
+      "bbox": [
+        436.2,
+        594.49,
+        491.45,
+        788.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.8564,
+      "brand": "Other",
+      "brand_confidence": 0.25
+    },
+    {
+      "bbox": [
+        367.14,
+        299.22,
+        435.7,
+        529.99
+      ],
+      "detector_class": "object",
+      "confidence": 0.856,
+      "brand": "Coca-Cola",
+      "brand_confidence": 0.9654
+    },
+    {
+      "bbox": [
+        375.99,
+        596.56,
+        433.21,
+        789.15
+      ],
+      "detector_class": "object",
+      "confidence": 0.8539,
+      "brand": "Other",
+      "brand_confidence": 0.3754
+    },
+    {
+      "bbox": [
+        1371.94,
+        588.72,
+        1430.47,
+        790.25
+      ],
+      "detector_class": "object",
+      "confidence": 0.8537,
+      "brand": "Pepsi",
+      "brand_confidence": 0.9844
+    },
+    {
+      "bbox": [
+        96.36,
+        309.84,
+        160.73,
+        529.29
+      ],
+      "detector_class": "object",
+      "confidence": 0.8535,
+      "brand": "Sprite",
+      "brand_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        745.0,
+        728.14,
+        806.58,
+        790.41
+      ],
+      "detector_class": "object",
+      "confidence": 0.8525,
+      "brand": "Other",
+      "brand_confidence": 0.3533
+    },
+    {
+      "bbox": [
+        941.63,
+        444.2,
+        1011.55,
+        527.03
+      ],
+      "detector_class": "object",
+      "confidence": 0.8524,
+      "brand": "Other",
+      "brand_confidence": 0.3421
+    },
+    {
+      "bbox": [
+        866.69,
+        303.89,
+        938.88,
+        526.72
+      ],
+      "detector_class": "object",
+      "confidence": 0.8521,
+      "brand": "Thums Up",
+      "brand_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        185.43,
+        30.7,
+        268.77,
+        241.72
+      ],
+      "detector_class": "object",
+      "confidence": 0.8517,
+      "brand": "Other",
+      "brand_confidence": 0.3404
+    },
+    {
+      "bbox": [
+        622.53,
+        585.67,
+        682.29,
+        790.26
+      ],
+      "detector_class": "object",
+      "confidence": 0.8516,
+      "brand": "Mountain Dew",
+      "brand_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        745.29,
+        586.3,
+        806.46,
+        789.72
+      ],
+      "detector_class": "object",
+      "confidence": 0.8513,
+      "brand": "7UP",
+      "brand_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        21.86,
+        856.39,
+        85.32,
+        1041.03
+      ],
+      "detector_class": "object",
+      "confidence": 0.8506,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.5362
+    },
+    {
+      "bbox": [
+        147.98,
+        856.1,
+        207.47,
+        1039.99
+      ],
+      "detector_class": "object",
+      "confidence": 0.8506,
+      "brand": "Tropicana",
+      "brand_confidence": 0.7735
+    },
+    {
+      "bbox": [
+        636.97,
+        186.0,
+        724.36,
+        242.71
+      ],
+      "detector_class": "object",
+      "confidence": 0.8501,
+      "brand": "Other",
+      "brand_confidence": 0.1909
+    },
+    {
+      "bbox": [
+        684.55,
+        585.59,
+        743.49,
+        790.93
+      ],
+      "detector_class": "object",
+      "confidence": 0.8499,
+      "brand": "Mountain Dew",
+      "brand_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        803.02,
+        875.52,
+        866.13,
+        1038.67
+      ],
+      "detector_class": "object",
+      "confidence": 0.8492,
+      "brand": "Red Bull",
+      "brand_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        1309.34,
+        588.96,
+        1369.1,
+        790.6
+      ],
+      "detector_class": "object",
+      "confidence": 0.8492,
+      "brand": "Pepsi",
+      "brand_confidence": 0.9865
+    },
+    {
+      "bbox": [
+        728.28,
+        186.0,
+        815.19,
+        242.77
+      ],
+      "detector_class": "object",
+      "confidence": 0.849,
+      "brand": "Tropicana",
+      "brand_confidence": 0.4833
+    },
+    {
+      "bbox": [
+        794.66,
+        303.95,
+        864.94,
+        527.26
+      ],
+      "detector_class": "object",
+      "confidence": 0.8485,
+      "brand": "Thums Up",
+      "brand_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        11.75,
+        31.25,
+        97.34,
+        239.73
+      ],
+      "detector_class": "object",
+      "confidence": 0.8485,
+      "brand": "Tropicana",
+      "brand_confidence": 0.6894
+    },
+    {
+      "bbox": [
+        1017.92,
+        186.04,
+        1113.9,
+        241.53
+      ],
+      "detector_class": "object",
+      "confidence": 0.8478,
+      "brand": "Other",
+      "brand_confidence": 0.4414
+    },
+    {
+      "bbox": [
+        1219.48,
+        186.0,
+        1319.74,
+        241.7
+      ],
+      "detector_class": "object",
+      "confidence": 0.8473,
+      "brand": "Other",
+      "brand_confidence": 0.2195
+    },
+    {
+      "bbox": [
+        718.19,
+        303.39,
+        793.4,
+        527.92
+      ],
+      "detector_class": "object",
+      "confidence": 0.8471,
+      "brand": "Thums Up",
+      "brand_confidence": 0.9649
+    },
+    {
+      "bbox": [
+        493.69,
+        587.59,
+        556.6,
+        791.5
+      ],
+      "detector_class": "object",
+      "confidence": 0.8467,
+      "brand": "Mountain Dew",
+      "brand_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        819.41,
+        186.0,
+        906.02,
+        242.6
+      ],
+      "detector_class": "object",
+      "confidence": 0.8457,
+      "brand": "Other",
+      "brand_confidence": 0.1871
+    },
+    {
+      "bbox": [
+        317.81,
+        596.57,
+        373.7,
+        787.17
+      ],
+      "detector_class": "object",
+      "confidence": 0.8454,
+      "brand": "Other",
+      "brand_confidence": 0.1506
+    },
+    {
+      "bbox": [
+        548.19,
+        186.09,
+        633.09,
+        242.36
+      ],
+      "detector_class": "object",
+      "confidence": 0.8452,
+      "brand": "Fanta",
+      "brand_confidence": 0.5161
+    },
+    {
+      "bbox": [
+        639.43,
+        304.85,
+        709.21,
+        530.2
+      ],
+      "detector_class": "object",
+      "confidence": 0.8443,
+      "brand": "Coca-Cola",
+      "brand_confidence": 0.6933
+    },
+    {
+      "bbox": [
+        80.36,
+        590.21,
+        137.01,
+        790.79
+      ],
+      "detector_class": "object",
+      "confidence": 0.8441,
+      "brand": "Nestle",
+      "brand_confidence": 0.5799
+    },
+    {
+      "bbox": [
+        1154.6,
+        308.11,
+        1222.07,
+        530.97
+      ],
+      "detector_class": "object",
+      "confidence": 0.8438,
+      "brand": "Fanta",
+      "brand_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        808.61,
+        728.83,
+        870.01,
+        790.11
+      ],
+      "detector_class": "object",
+      "confidence": 0.8427,
+      "brand": "Other",
+      "brand_confidence": 0.3846
+    },
+    {
+      "bbox": [
+        14.69,
+        186.0,
+        97.52,
+        240.75
+      ],
+      "detector_class": "object",
+      "confidence": 0.8422,
+      "brand": "Other",
+      "brand_confidence": 0.284
+    },
+    {
+      "bbox": [
+        259.68,
+        596.01,
+        314.72,
+        788.98
+      ],
+      "detector_class": "object",
+      "confidence": 0.8421,
+      "brand": "Other",
+      "brand_confidence": 0.3608
+    },
+    {
+      "bbox": [
+        909.69,
+        186.0,
+        1000.53,
+        242.16
+      ],
+      "detector_class": "object",
+      "confidence": 0.8381,
+      "brand": "Other",
+      "brand_confidence": 0.1955
+    },
+    {
+      "bbox": [
+        1119.86,
+        186.0,
+        1215.55,
+        241.54
+      ],
+      "detector_class": "object",
+      "confidence": 0.838,
+      "brand": "Pringles",
+      "brand_confidence": 0.4786
+    },
+    {
+      "bbox": [
+        1224.22,
+        311.81,
+        1289.05,
+        530.88
+      ],
+      "detector_class": "object",
+      "confidence": 0.8363,
+      "brand": "Limca",
+      "brand_confidence": 1.0
+    },
+    {
+      "bbox": [
+        910.75,
+        27.31,
+        1003.49,
+        242.74
+      ],
+      "detector_class": "object",
+      "confidence": 0.8359,
+      "brand": "Tropicana",
+      "brand_confidence": 0.6059
+    },
+    {
+      "bbox": [
+        728.71,
+        28.01,
+        816.87,
+        242.09
+      ],
+      "detector_class": "object",
+      "confidence": 0.8355,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.644
+    },
+    {
+      "bbox": [
+        100.08,
+        186.0,
+        182.78,
+        241.6
+      ],
+      "detector_class": "object",
+      "confidence": 0.8334,
+      "brand": "Tropicana",
+      "brand_confidence": 0.5952
+    },
+    {
+      "bbox": [
+        445.16,
+        186.0,
+        533.36,
+        242.11
+      ],
+      "detector_class": "object",
+      "confidence": 0.8331,
+      "brand": "Limca",
+      "brand_confidence": 0.6552
+    },
+    {
+      "bbox": [
+        868.84,
+        967.15,
+        927.38,
+        1039.71
+      ],
+      "detector_class": "object",
+      "confidence": 0.8331,
+      "brand": "Red Bull",
+      "brand_confidence": 0.5771
+    },
+    {
+      "bbox": [
+        505.14,
+        304.76,
+        570.08,
+        530.53
+      ],
+      "detector_class": "object",
+      "confidence": 0.8316,
+      "brand": "Coca-Cola",
+      "brand_confidence": 0.8154
+    },
+    {
+      "bbox": [
+        296.86,
+        298.42,
+        365.45,
+        529.89
+      ],
+      "detector_class": "object",
+      "confidence": 0.8312,
+      "brand": "Coca-Cola",
+      "brand_confidence": 0.9636
+    },
+    {
+      "bbox": [
+        185.04,
+        186.0,
+        268.5,
+        241.7
+      ],
+      "detector_class": "object",
+      "confidence": 0.8309,
+      "brand": "Activia",
+      "brand_confidence": 0.4992
+    },
+    {
+      "bbox": [
+        572.61,
+        304.68,
+        637.81,
+        530.36
+      ],
+      "detector_class": "object",
+      "confidence": 0.8302,
+      "brand": "Coca-Cola",
+      "brand_confidence": 0.7791
+    },
+    {
+      "bbox": [
+        271.43,
+        186.0,
+        355.93,
+        241.57
+      ],
+      "detector_class": "object",
+      "confidence": 0.8292,
+      "brand": "Other",
+      "brand_confidence": 0.3941
+    },
+    {
+      "bbox": [
+        1291.22,
+        444.49,
+        1358.45,
+        527.13
+      ],
+      "detector_class": "object",
+      "confidence": 0.8288,
+      "brand": "Other",
+      "brand_confidence": 0.1955
+    },
+    {
+      "bbox": [
+        723.88,
+        445.14,
+        786.24,
+        526.47
+      ],
+      "detector_class": "object",
+      "confidence": 0.8275,
+      "brand": "Thums Up",
+      "brand_confidence": 0.4635
+    },
+    {
+      "bbox": [
+        541.97,
+        29.18,
+        634.24,
+        242.34
+      ],
+      "detector_class": "object",
+      "confidence": 0.8268,
+      "brand": "Tropicana",
+      "brand_confidence": 0.6518
+    },
+    {
+      "bbox": [
+        819.64,
+        27.77,
+        908.08,
+        243.54
+      ],
+      "detector_class": "object",
+      "confidence": 0.8261,
+      "brand": "Other",
+      "brand_confidence": 0.3861
+    },
+    {
+      "bbox": [
+        636.81,
+        27.97,
+        726.31,
+        243.79
+      ],
+      "detector_class": "object",
+      "confidence": 0.8227,
+      "brand": "Tropicana",
+      "brand_confidence": 0.508
+    },
+    {
+      "bbox": [
+        358.27,
+        186.01,
+        442.57,
+        241.62
+      ],
+      "detector_class": "object",
+      "confidence": 0.8221,
+      "brand": "Other",
+      "brand_confidence": 0.2568
+    },
+    {
+      "bbox": [
+        26.04,
+        308.14,
+        95.04,
+        528.9
+      ],
+      "detector_class": "object",
+      "confidence": 0.8219,
+      "brand": "Sprite",
+      "brand_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        1324.35,
+        186.0,
+        1422.0,
+        240.82
+      ],
+      "detector_class": "object",
+      "confidence": 0.8204,
+      "brand": "Other",
+      "brand_confidence": 0.2289
+    },
+    {
+      "bbox": [
+        490.12,
+        842.93,
+        561.41,
+        899.95
+      ],
+      "detector_class": "object",
+      "confidence": 0.8202,
+      "brand": "Other",
+      "brand_confidence": 0.2796
+    },
+    {
+      "bbox": [
+        859.36,
+        1046.04,
+        938.44,
+        1086.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.8172,
+      "brand": "Red Bull",
+      "brand_confidence": 0.9722
+    },
+    {
+      "bbox": [
+        229.39,
+        301.6,
+        294.73,
+        531.47
+      ],
+      "detector_class": "object",
+      "confidence": 0.8171,
+      "brand": "Coca-Cola",
+      "brand_confidence": 0.959
+    },
+    {
+      "bbox": [
+        1084.43,
+        443.1,
+        1153.73,
+        527.4
+      ],
+      "detector_class": "object",
+      "confidence": 0.8152,
+      "brand": "Other",
+      "brand_confidence": 0.418
+    },
+    {
+      "bbox": [
+        872.34,
+        445.06,
+        937.64,
+        526.06
+      ],
+      "detector_class": "object",
+      "confidence": 0.8079,
+      "brand": "Other",
+      "brand_confidence": 0.3546
+    },
+    {
+      "bbox": [
+        930.19,
+        966.35,
+        989.59,
+        1039.56
+      ],
+      "detector_class": "object",
+      "confidence": 0.8057,
+      "brand": "Other",
+      "brand_confidence": 0.2961
+    },
+    {
+      "bbox": [
+        798.49,
+        444.9,
+        860.37,
+        526.51
+      ],
+      "detector_class": "object",
+      "confidence": 0.801,
+      "brand": "Other",
+      "brand_confidence": 0.3831
+    },
+    {
+      "bbox": [
+        162.48,
+        443.2,
+        228.59,
+        526.76
+      ],
+      "detector_class": "object",
+      "confidence": 0.8,
+      "brand": "Other",
+      "brand_confidence": 0.4108
+    },
+    {
+      "bbox": [
+        645.32,
+        842.15,
+        717.27,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.7983,
+      "brand": "Other",
+      "brand_confidence": 0.3131
+    },
+    {
+      "bbox": [
+        231.45,
+        440.82,
+        289.83,
+        526.67
+      ],
+      "detector_class": "object",
+      "confidence": 0.7893,
+      "brand": "Other",
+      "brand_confidence": 0.2
+    },
+    {
+      "bbox": [
+        25.67,
+        443.71,
+        94.3,
+        526.27
+      ],
+      "detector_class": "object",
+      "confidence": 0.7886,
+      "brand": "Other",
+      "brand_confidence": 0.358
+    },
+    {
+      "bbox": [
+        803.72,
+        967.85,
+        865.86,
+        1039.58
+      ],
+      "detector_class": "object",
+      "confidence": 0.7823,
+      "brand": "Red Bull",
+      "brand_confidence": 0.725
+    },
+    {
+      "bbox": [
+        372.53,
+        441.66,
+        428.33,
+        526.85
+      ],
+      "detector_class": "object",
+      "confidence": 0.7801,
+      "brand": "Other",
+      "brand_confidence": 0.2674
+    },
+    {
+      "bbox": [
+        567.18,
+        844.54,
+        638.61,
+        899.84
+      ],
+      "detector_class": "object",
+      "confidence": 0.7777,
+      "brand": "Other",
+      "brand_confidence": 0.4446
+    },
+    {
+      "bbox": [
+        93.58,
+        857.48,
+        149.9,
+        899.88
+      ],
+      "detector_class": "object",
+      "confidence": 0.7761,
+      "brand": "Other",
+      "brand_confidence": 0.3346
+    },
+    {
+      "bbox": [
+        723.39,
+        842.6,
+        792.87,
+        899.8
+      ],
+      "detector_class": "object",
+      "confidence": 0.7741,
+      "brand": "Gatorade",
+      "brand_confidence": 0.7605
+    },
+    {
+      "bbox": [
+        872.17,
+        728.52,
+        935.55,
+        790.44
+      ],
+      "detector_class": "object",
+      "confidence": 0.7736,
+      "brand": "Other",
+      "brand_confidence": 0.3422
+    },
+    {
+      "bbox": [
+        871.97,
+        588.08,
+        900.0,
+        730.33
+      ],
+      "detector_class": "object",
+      "confidence": 0.7681,
+      "brand": "Other",
+      "brand_confidence": 0.3162
+    },
+    {
+      "bbox": [
+        940.24,
+        731.64,
+        1001.46,
+        790.37
+      ],
+      "detector_class": "object",
+      "confidence": 0.764,
+      "brand": "Other",
+      "brand_confidence": 0.1255
+    },
+    {
+      "bbox": [
+        316.64,
+        1045.66,
+        394.98,
+        1086.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.7623,
+      "brand": "Paper Boat",
+      "brand_confidence": 0.9634
+    },
+    {
+      "bbox": [
+        95.8,
+        444.9,
+        161.09,
+        526.35
+      ],
+      "detector_class": "object",
+      "confidence": 0.7618,
+      "brand": "Other",
+      "brand_confidence": 0.4145
+    },
+    {
+      "bbox": [
+        90.9,
+        1045.6,
+        171.77,
+        1086.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.7602,
+      "brand": "Other",
+      "brand_confidence": 0.2096
+    },
+    {
+      "bbox": [
+        495.41,
+        586.15,
+        553.15,
+        664.07
+      ],
+      "detector_class": "object",
+      "confidence": 0.7577,
+      "brand": "Limca",
+      "brand_confidence": 0.5223
+    },
+    {
+      "bbox": [
+        1220.35,
+        16.9,
+        1323.4,
+        237.62
+      ],
+      "detector_class": "object",
+      "confidence": 0.7436,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        214.36,
+        857.21,
+        271.68,
+        899.91
+      ],
+      "detector_class": "object",
+      "confidence": 0.74,
+      "brand": "Other",
+      "brand_confidence": 0.1486
+    },
+    {
+      "bbox": [
+        868.0,
+        309.18,
+        900.0,
+        445.01
+      ],
+      "detector_class": "object",
+      "confidence": 0.7391,
+      "brand": "Other",
+      "brand_confidence": 0.1493
+    },
+    {
+      "bbox": [
+        154.44,
+        857.32,
+        209.85,
+        899.96
+      ],
+      "detector_class": "object",
+      "confidence": 0.7364,
+      "brand": "Other",
+      "brand_confidence": 0.1087
+    },
+    {
+      "bbox": [
+        583.09,
+        1046.38,
+        664.3,
+        1086.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.733,
+      "brand": "Gatorade",
+      "brand_confidence": 0.7742
+    },
+    {
+      "bbox": [
+        1291.6,
+        1047.3,
+        1370.95,
+        1086.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.7314,
+      "brand": "Amul",
+      "brand_confidence": 0.8714
+    },
+    {
+      "bbox": [
+        872.14,
+        726.87,
+        899.91,
+        790.52
+      ],
+      "detector_class": "object",
+      "confidence": 0.7203,
+      "brand": "Other",
+      "brand_confidence": 0.247
+    },
+    {
+      "bbox": [
+        929.96,
+        875.4,
+        991.74,
+        899.99
+      ],
+      "detector_class": "object",
+      "confidence": 0.7173,
+      "brand": "Other",
+      "brand_confidence": 0.1704
+    },
+    {
+      "bbox": [
+        300.76,
+        441.09,
+        363.1,
+        526.82
+      ],
+      "detector_class": "object",
+      "confidence": 0.7161,
+      "brand": "Thums Up",
+      "brand_confidence": 0.6037
+    },
+    {
+      "bbox": [
+        1013.38,
+        15.98,
+        1119.24,
+        237.39
+      ],
+      "detector_class": "object",
+      "confidence": 0.7067,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        29.95,
+        857.05,
+        91.5,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.7043,
+      "brand": "Other",
+      "brand_confidence": 0.2845
+    },
+    {
+      "bbox": [
+        804.68,
+        874.7,
+        866.72,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.6964,
+      "brand": "Other",
+      "brand_confidence": 0.1302
+    },
+    {
+      "bbox": [
+        1066.52,
+        732.28,
+        1127.49,
+        790.96
+      ],
+      "detector_class": "object",
+      "confidence": 0.6948,
+      "brand": "Other",
+      "brand_confidence": 0.1789
+    },
+    {
+      "bbox": [
+        1138.85,
+        873.47,
+        1190.04,
+        899.94
+      ],
+      "detector_class": "object",
+      "confidence": 0.6905,
+      "brand": "Other",
+      "brand_confidence": 0.2189
+    },
+    {
+      "bbox": [
+        869.34,
+        875.04,
+        900.0,
+        964.01
+      ],
+      "detector_class": "object",
+      "confidence": 0.6904,
+      "brand": "Other",
+      "brand_confidence": 0.1563
+    },
+    {
+      "bbox": [
+        869.4,
+        875.62,
+        928.33,
+        899.98
+      ],
+      "detector_class": "object",
+      "confidence": 0.6888,
+      "brand": "Other",
+      "brand_confidence": 0.1165
+    },
+    {
+      "bbox": [
+        1014.13,
+        443.25,
+        1082.36,
+        527.51
+      ],
+      "detector_class": "object",
+      "confidence": 0.6767,
+      "brand": "Other",
+      "brand_confidence": 0.4149
+    },
+    {
+      "bbox": [
+        199.37,
+        751.9,
+        254.94,
+        789.73
+      ],
+      "detector_class": "object",
+      "confidence": 0.668,
+      "brand": "Other",
+      "brand_confidence": 0.2903
+    },
+    {
+      "bbox": [
+        1096.56,
+        1046.6,
+        1175.53,
+        1086.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.6623,
+      "brand": "Nescafe",
+      "brand_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        1068.74,
+        873.09,
+        1119.62,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.6375,
+      "brand": "Other",
+      "brand_confidence": 0.2322
+    },
+    {
+      "bbox": [
+        439.69,
+        442.74,
+        499.66,
+        526.66
+      ],
+      "detector_class": "object",
+      "confidence": 0.637,
+      "brand": "Dark Fantasy",
+      "brand_confidence": 0.4895
+    },
+    {
+      "bbox": [
+        509.93,
+        443.87,
+        563.04,
+        526.88
+      ],
+      "detector_class": "object",
+      "confidence": 0.6368,
+      "brand": "Other",
+      "brand_confidence": 0.3008
+    },
+    {
+      "bbox": [
+        258.36,
+        754.94,
+        315.25,
+        789.51
+      ],
+      "detector_class": "object",
+      "confidence": 0.634,
+      "brand": "Other",
+      "brand_confidence": 0.1171
+    },
+    {
+      "bbox": [
+        577.5,
+        443.0,
+        635.44,
+        526.66
+      ],
+      "detector_class": "object",
+      "confidence": 0.6239,
+      "brand": "Other",
+      "brand_confidence": 0.3667
+    },
+    {
+      "bbox": [
+        1349.18,
+        865.3,
+        1413.86,
+        899.94
+      ],
+      "detector_class": "object",
+      "confidence": 0.6229,
+      "brand": "Other",
+      "brand_confidence": 0.1127
+    },
+    {
+      "bbox": [
+        548.0,
+        307.92,
+        571.03,
+        444.35
+      ],
+      "detector_class": "object",
+      "confidence": 0.6195,
+      "brand": "Other",
+      "brand_confidence": 0.3445
+    },
+    {
+      "bbox": [
+        376.64,
+        756.1,
+        432.37,
+        789.3
+      ],
+      "detector_class": "object",
+      "confidence": 0.6193,
+      "brand": "Other",
+      "brand_confidence": 0.1399
+    },
+    {
+      "bbox": [
+        1360.17,
+        445.07,
+        1428.49,
+        527.21
+      ],
+      "detector_class": "object",
+      "confidence": 0.6184,
+      "brand": "Other",
+      "brand_confidence": 0.187
+    },
+    {
+      "bbox": [
+        1004.14,
+        733.18,
+        1064.73,
+        790.59
+      ],
+      "detector_class": "object",
+      "confidence": 0.6132,
+      "brand": "Other",
+      "brand_confidence": 0.3988
+    },
+    {
+      "bbox": [
+        644.81,
+        444.66,
+        701.58,
+        526.58
+      ],
+      "detector_class": "object",
+      "confidence": 0.6122,
+      "brand": "Other",
+      "brand_confidence": 0.2917
+    },
+    {
+      "bbox": [
+        1129.62,
+        732.19,
+        1190.63,
+        790.99
+      ],
+      "detector_class": "object",
+      "confidence": 0.6118,
+      "brand": "Other",
+      "brand_confidence": 0.1618
+    },
+    {
+      "bbox": [
+        1000.34,
+        873.0,
+        1049.89,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.5921,
+      "brand": "Other",
+      "brand_confidence": 0.1303
+    },
+    {
+      "bbox": [
+        1115.18,
+        18.13,
+        1219.06,
+        241.24
+      ],
+      "detector_class": "object",
+      "confidence": 0.5873,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        1275.78,
+        864.62,
+        1340.62,
+        899.97
+      ],
+      "detector_class": "object",
+      "confidence": 0.5767,
+      "brand": "Other",
+      "brand_confidence": 0.0831
+    },
+    {
+      "bbox": [
+        1323.82,
+        16.71,
+        1426.54,
+        238.2
+      ],
+      "detector_class": "object",
+      "confidence": 0.5724,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        141.81,
+        589.94,
+        197.38,
+        670.47
+      ],
+      "detector_class": "object",
+      "confidence": 0.5624,
+      "brand": "Other",
+      "brand_confidence": 0.1257
+    },
+    {
+      "bbox": [
+        646.73,
+        304.81,
+        694.55,
+        388.33
+      ],
+      "detector_class": "object",
+      "confidence": 0.5489,
+      "brand": "Other",
+      "brand_confidence": 0.2173
+    },
+    {
+      "bbox": [
+        558.74,
+        717.55,
+        620.92,
+        789.8
+      ],
+      "detector_class": "object",
+      "confidence": 0.5212,
+      "brand": "Other",
+      "brand_confidence": 0.2215
+    },
+    {
+      "bbox": [
+        1314.22,
+        728.69,
+        1369.43,
+        790.61
+      ],
+      "detector_class": "object",
+      "confidence": 0.5139,
+      "brand": "Dark Fantasy",
+      "brand_confidence": 0.7596
+    },
+    {
+      "bbox": [
+        140.31,
+        752.04,
+        195.5,
+        790.02
+      ],
+      "detector_class": "object",
+      "confidence": 0.4956,
+      "brand": "Other",
+      "brand_confidence": 0.1011
+    },
+    {
+      "bbox": [
+        317.37,
+        755.14,
+        373.99,
+        788.33
+      ],
+      "detector_class": "object",
+      "confidence": 0.4945,
+      "brand": "Other",
+      "brand_confidence": 0.1585
+    },
+    {
+      "bbox": [
+        0.04,
+        582.89,
+        16.38,
+        802.79
+      ],
+      "detector_class": "object",
+      "confidence": 0.4822,
+      "brand": "Other",
+      "brand_confidence": 0.313
+    },
+    {
+      "bbox": [
+        578.94,
+        303.62,
+        628.37,
+        387.94
+      ],
+      "detector_class": "object",
+      "confidence": 0.4562,
+      "brand": "Other",
+      "brand_confidence": 0.2374
+    },
+    {
+      "bbox": [
+        1371.88,
+        727.36,
+        1427.39,
+        790.91
+      ],
+      "detector_class": "object",
+      "confidence": 0.442,
+      "brand": "Other",
+      "brand_confidence": 0.2453
+    },
+    {
+      "bbox": [
+        873.95,
+        447.02,
+        900.0,
+        525.82
+      ],
+      "detector_class": "object",
+      "confidence": 0.4274,
+      "brand": "Other",
+      "brand_confidence": 0.3517
+    },
+    {
+      "bbox": [
+        279.3,
+        850.07,
+        342.97,
+        899.99
+      ],
+      "detector_class": "object",
+      "confidence": 0.4258,
+      "brand": "Other",
+      "brand_confidence": 0.2284
+    },
+    {
+      "bbox": [
+        23.31,
+        590.83,
+        79.14,
+        681.44
+      ],
+      "detector_class": "object",
+      "confidence": 0.4126,
+      "brand": "Other",
+      "brand_confidence": 0.1552
+    },
+    {
+      "bbox": [
+        435.98,
+        755.64,
+        490.76,
+        789.2
+      ],
+      "detector_class": "object",
+      "confidence": 0.3935,
+      "brand": "Other",
+      "brand_confidence": 0.1195
+    },
+    {
+      "bbox": [
+        1193.24,
+        726.96,
+        1245.7,
+        788.92
+      ],
+      "detector_class": "object",
+      "confidence": 0.3753,
+      "brand": "Other",
+      "brand_confidence": 0.1745
+    },
+    {
+      "bbox": [
+        809.16,
+        586.97,
+        866.51,
+        660.11
+      ],
+      "detector_class": "object",
+      "confidence": 0.3436,
+      "brand": "7UP",
+      "brand_confidence": 0.5005
+    },
+    {
+      "bbox": [
+        347.41,
+        878.39,
+        410.84,
+        899.95
+      ],
+      "detector_class": "object",
+      "confidence": 0.3413,
+      "brand": "Other",
+      "brand_confidence": 0.1382
+    },
+    {
+      "bbox": [
+        81.36,
+        753.24,
+        136.96,
+        789.57
+      ],
+      "detector_class": "object",
+      "confidence": 0.3381,
+      "brand": "Other",
+      "brand_confidence": 0.1446
+    },
+    {
+      "bbox": [
+        413.83,
+        850.33,
+        484.53,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.3269,
+      "brand": "Other",
+      "brand_confidence": 0.2179
+    },
+    {
+      "bbox": [
+        560.02,
+        793.85,
+        638.15,
+        838.1
+      ],
+      "detector_class": "object",
+      "confidence": 0.3268,
+      "brand": "Other",
+      "brand_confidence": 0.1924
+    },
+    {
+      "bbox": [
+        728.8,
+        306.08,
+        783.84,
+        386.62
+      ],
+      "detector_class": "object",
+      "confidence": 0.3262,
+      "brand": "Other",
+      "brand_confidence": 0.337
+    },
+    {
+      "bbox": [
+        104.29,
+        306.87,
+        156.45,
+        384.1
+      ],
+      "detector_class": "object",
+      "confidence": 0.2976,
+      "brand": "Other",
+      "brand_confidence": 0.2966
+    },
+    {
+      "bbox": [
+        548.0,
+        842.93,
+        563.86,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.2969,
+      "brand": "Other",
+      "brand_confidence": 0.3038
+    },
+    {
+      "bbox": [
+        290.27,
+        531.43,
+        367.01,
+        572.59
+      ],
+      "detector_class": "object",
+      "confidence": 0.2806,
+      "brand": "Other",
+      "brand_confidence": 0.4465
+    },
+    {
+      "bbox": [
+        0.0,
+        303.65,
+        17.22,
+        536.05
+      ],
+      "detector_class": "object",
+      "confidence": 0.2785,
+      "brand": "Other",
+      "brand_confidence": 0.2717
+    },
+    {
+      "bbox": [
+        1432.5,
+        588.33,
+        1448.0,
+        792.64
+      ],
+      "detector_class": "object",
+      "confidence": 0.2773,
+      "brand": "Other",
+      "brand_confidence": 0.4395
+    },
+    {
+      "bbox": [
+        549.41,
+        531.46,
+        622.77,
+        571.49
+      ],
+      "detector_class": "object",
+      "confidence": 0.254,
+      "brand": "Other",
+      "brand_confidence": 0.4
+    },
+    {
+      "bbox": [
+        1208.48,
+        865.44,
+        1268.89,
+        891.59
+      ],
+      "detector_class": "object",
+      "confidence": 0.2525,
+      "brand": "Other",
+      "brand_confidence": 0.1134
+    },
+    {
+      "bbox": [
+        346.01,
+        849.17,
+        409.32,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.2417,
+      "brand": "Other",
+      "brand_confidence": 0.2499
+    },
+    {
+      "bbox": [
+        280.79,
+        880.85,
+        343.96,
+        900.0
+      ],
+      "detector_class": "object",
+      "confidence": 0.2413,
+      "brand": "Other",
+      "brand_confidence": 0.1468
+    },
+    {
+      "bbox": [
+        548.02,
+        442.04,
+        568.09,
+        525.77
+      ],
+      "detector_class": "object",
+      "confidence": 0.241,
+      "brand": "Other",
+      "brand_confidence": 0.3983
+    },
+    {
+      "bbox": [
+        1249.61,
+        726.81,
+        1305.15,
+        789.31
+      ],
+      "detector_class": "object",
+      "confidence": 0.2217,
+      "brand": "Dark Fantasy",
+      "brand_confidence": 0.6767
+    },
+    {
+      "bbox": [
+        1208.64,
+        892.34,
+        1269.01,
+        899.94
+      ],
+      "detector_class": "object",
+      "confidence": 0.2179,
+      "brand": "Other",
+      "brand_confidence": 0.0961
+    },
+    {
+      "bbox": [
+        0.0,
+        847.28,
+        14.51,
+        1041.95
+      ],
+      "detector_class": "object",
+      "confidence": 0.2176,
+      "brand": "Other",
+      "brand_confidence": 0.2362
+    },
+    {
+      "bbox": [
+        548.0,
+        916.77,
+        561.82,
+        1039.58
+      ],
+      "detector_class": "object",
+      "confidence": 0.2174,
+      "brand": "Other",
+      "brand_confidence": 0.326
+    },
+    {
+      "bbox": [
+        512.75,
+        304.02,
+        561.92,
+        388.26
+      ],
+      "detector_class": "object",
+      "confidence": 0.2086,
+      "brand": "Other",
+      "brand_confidence": 0.2225
+    },
+    {
+      "bbox": [
+        1324.57,
+        16.91,
+        1418.21,
+        126.06
+      ],
+      "detector_class": "object",
+      "confidence": 0.2085,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        548.0,
+        27.29,
+        632.04,
+        125.48
+      ],
+      "detector_class": "object",
+      "confidence": 0.2083,
+      "brand": "Other",
+      "brand_confidence": 0.2091
+    },
+    {
+      "bbox": [
+        494.37,
+        666.58,
+        554.61,
+        713.93
+      ],
+      "detector_class": "object",
+      "confidence": 0.2004,
+      "brand": "Mountain Dew",
+      "brand_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        1432.43,
+        323.63,
+        1448.0,
+        528.17
+      ],
+      "detector_class": "object",
+      "confidence": 0.1963,
+      "brand": "Other",
+      "brand_confidence": 0.4425
+    },
+    {
+      "bbox": [
+        548.0,
+        677.95,
+        557.64,
+        789.6
+      ],
+      "detector_class": "object",
+      "confidence": 0.1854,
+      "brand": "Other",
+      "brand_confidence": 0.1373
+    },
+    {
+      "bbox": [
+        783.06,
+        531.42,
+        858.38,
+        571.19
+      ],
+      "detector_class": "object",
+      "confidence": 0.1764,
+      "brand": "Other",
+      "brand_confidence": 0.1939
+    },
+    {
+      "bbox": [
+        1432.71,
+        446.26,
+        1448.0,
+        517.72
+      ],
+      "detector_class": "object",
+      "confidence": 0.1763,
+      "brand": "Other",
+      "brand_confidence": 0.2651
+    },
+    {
+      "bbox": [
+        171.49,
+        307.31,
+        219.04,
+        380.29
+      ],
+      "detector_class": "object",
+      "confidence": 0.1759,
+      "brand": "Other",
+      "brand_confidence": 0.2657
+    },
+    {
+      "bbox": [
+        800.45,
+        305.91,
+        856.05,
+        382.62
+      ],
+      "detector_class": "object",
+      "confidence": 0.1747,
+      "brand": "Other",
+      "brand_confidence": 0.1839
+    },
+    {
+      "bbox": [
+        1119.37,
+        16.9,
+        1216.03,
+        127.69
+      ],
+      "detector_class": "object",
+      "confidence": 0.1632,
+      "brand": "Minute Maid",
+      "brand_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        1329.71,
+        17.35,
+        1421.19,
+        50.54
+      ],
+      "detector_class": "object",
+      "confidence": 0.1625,
+      "brand": "Other",
+      "brand_confidence": 0.1546
+    }
+  ],
+  "ocr": [
+    {
+      "text": "Red)",
+      "confidence": 0.6192,
+      "bbox": [
+        549.33,
+        46.67,
+        634.0,
+        94.67
+      ]
+    },
+    {
+      "text": "Rsol",
+      "confidence": 0.4056,
+      "bbox": [
+        676.0,
+        82.67,
+        702.67,
+        101.33
+      ]
+    },
+    {
+      "text": "Miaite",
+      "confidence": 0.7061,
+      "bbox": [
+        1038.0,
+        62.67,
+        1096.0,
+        100.0
+      ]
+    },
+    {
+      "text": "Miaide",
+      "confidence": 0.7972,
+      "bbox": [
+        1138.67,
+        62.0,
+        1198.0,
+        102.0
+      ]
+    },
+    {
+      "text": "Miaude",
+      "confidence": 0.4269,
+      "bbox": [
+        1242.0,
+        63.33,
+        1300.67,
+        103.33
+      ]
+    },
+    {
+      "text": "Miaute",
+      "confidence": 0.9003,
+      "bbox": [
+        1344.67,
+        63.33,
+        1403.33,
+        103.33
+      ]
+    },
+    {
+      "text": "Orange",
+      "confidence": 0.9999,
+      "bbox": [
+        559.33,
+        102.0,
+        617.33,
+        127.33
+      ]
+    },
+    {
+      "text": "Mixed",
+      "confidence": 1.0,
+      "bbox": [
+        658.0,
+        103.33,
+        705.33,
+        123.33
+      ]
+    },
+    {
+      "text": "Mixed",
+      "confidence": 1.0,
+      "bbox": [
+        749.33,
+        104.0,
+        796.0,
+        122.67
+      ]
+    },
+    {
+      "text": "Guava",
+      "confidence": 1.0,
+      "bbox": [
+        838.67,
+        104.0,
+        886.67,
+        122.67
+      ]
+    },
+    {
+      "text": "Pomegramete",
+      "confidence": 0.9973,
+      "bbox": [
+        912.67,
+        104.67,
+        996.0,
+        126.0
+      ]
+    },
+    {
+      "text": "APPLE",
+      "confidence": 0.7168,
+      "bbox": [
+        1148.0,
+        109.33,
+        1189.33,
+        125.33
+      ]
+    },
+    {
+      "text": "Fruct",
+      "confidence": 0.9999,
+      "bbox": [
+        660.0,
+        120.0,
+        701.33,
+        137.33
+      ]
+    },
+    {
+      "text": "Frwt",
+      "confidence": 0.8557,
+      "bbox": [
+        752.0,
+        120.0,
+        792.0,
+        136.0
+      ]
+    },
+    {
+      "text": "125",
+      "confidence": 1.0,
+      "bbox": [
+        142.67,
+        246.67,
+        181.33,
+        266.67
+      ]
+    },
+    {
+      "text": "99",
+      "confidence": 1.0,
+      "bbox": [
+        604.0,
+        246.67,
+        633.33,
+        266.67
+      ]
+    },
+    {
+      "text": "105",
+      "confidence": 1.0,
+      "bbox": [
+        1137.33,
+        246.67,
+        1176.0,
+        266.67
+      ]
+    },
+    {
+      "text": "FANTA | FANT",
+      "confidence": 0.5586,
+      "bbox": [
+        947.33,
+        392.67,
+        1080.0,
+        430.0
+      ]
+    },
+    {
+      "text": "FANTA",
+      "confidence": 0.7934,
+      "bbox": [
+        1160.0,
+        394.67,
+        1220.0,
+        426.67
+      ]
+    },
+    {
+      "text": "Limca",
+      "confidence": 0.8457,
+      "bbox": [
+        1238.0,
+        404.0,
+        1284.0,
+        422.67
+      ]
+    },
+    {
+      "text": "Limca",
+      "confidence": 0.9157,
+      "bbox": [
+        1307.33,
+        404.0,
+        1352.0,
+        423.33
+      ]
+    },
+    {
+      "text": "Limc",
+      "confidence": 0.9989,
+      "bbox": [
+        1375.33,
+        404.67,
+        1421.33,
+        422.67
+      ]
+    },
+    {
+      "text": "X",
+      "confidence": 0.9858,
+      "bbox": [
+        1196.0,
+        484.0,
+        1213.33,
+        502.67
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9997,
+      "bbox": [
+        85.33,
+        532.0,
+        114.67,
+        552.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9988,
+      "bbox": [
+        316.0,
+        532.0,
+        346.67,
+        552.0
+      ]
+    },
+    {
+      "text": "55",
+      "confidence": 1.0,
+      "bbox": [
+        574.67,
+        532.0,
+        602.67,
+        552.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9984,
+      "bbox": [
+        809.33,
+        532.0,
+        838.67,
+        552.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9986,
+      "bbox": [
+        1057.33,
+        532.0,
+        1086.67,
+        552.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.998,
+      "bbox": [
+        1304.0,
+        532.0,
+        1332.0,
+        552.0
+      ]
+    },
+    {
+      "text": "FANTA",
+      "confidence": 0.6852,
+      "bbox": [
+        1056.67,
+        552.67,
+        1084.67,
+        562.0
+      ]
+    },
+    {
+      "text": "Goomi",
+      "confidence": 0.5954,
+      "bbox": [
+        82.0,
+        559.33,
+        111.33,
+        568.67
+      ]
+    },
+    {
+      "text": "Cod mi",
+      "confidence": 0.4779,
+      "bbox": [
+        314.0,
+        560.67,
+        343.33,
+        570.0
+      ]
+    },
+    {
+      "text": "ccomi",
+      "confidence": 0.8778,
+      "bbox": [
+        807.33,
+        560.67,
+        835.33,
+        570.0
+      ]
+    },
+    {
+      "text": "G00 ml",
+      "confidence": 0.4264,
+      "bbox": [
+        1056.67,
+        560.67,
+        1086.0,
+        570.0
+      ]
+    },
+    {
+      "text": "coomi",
+      "confidence": 0.7282,
+      "bbox": [
+        1302.0,
+        560.67,
+        1331.33,
+        568.67
+      ]
+    },
+    {
+      "text": "Llpton",
+      "confidence": 0.6626,
+      "bbox": [
+        267.33,
+        679.33,
+        302.0,
+        692.67
+      ]
+    },
+    {
+      "text": "Mpton",
+      "confidence": 0.9295,
+      "bbox": [
+        326.0,
+        679.33,
+        360.67,
+        692.67
+      ]
+    },
+    {
+      "text": "Lpton]",
+      "confidence": 0.5883,
+      "bbox": [
+        386.0,
+        679.33,
+        420.67,
+        692.67
+      ]
+    },
+    {
+      "text": "@pton",
+      "confidence": 0.5751,
+      "bbox": [
+        446.0,
+        679.33,
+        480.67,
+        692.67
+      ]
+    },
+    {
+      "text": "up",
+      "confidence": 0.9441,
+      "bbox": [
+        772.0,
+        685.33,
+        796.0,
+        705.33
+      ]
+    },
+    {
+      "text": "Up",
+      "confidence": 0.916,
+      "bbox": [
+        898.67,
+        686.67,
+        922.67,
+        706.67
+      ]
+    },
+    {
+      "text": "pepsi",
+      "confidence": 0.9096,
+      "bbox": [
+        1206.67,
+        706.67,
+        1239.33,
+        720.0
+      ]
+    },
+    {
+      "text": "pepsi",
+      "confidence": 0.9393,
+      "bbox": [
+        1266.67,
+        706.67,
+        1298.0,
+        720.67
+      ]
+    },
+    {
+      "text": "pepsi",
+      "confidence": 0.9857,
+      "bbox": [
+        1324.67,
+        704.67,
+        1360.67,
+        721.33
+      ]
+    },
+    {
+      "text": "pepsi",
+      "confidence": 0.9849,
+      "bbox": [
+        1388.0,
+        705.33,
+        1422.67,
+        721.33
+      ]
+    },
+    {
+      "text": "Lunon",
+      "confidence": 0.5365,
+      "bbox": [
+        268.67,
+        726.0,
+        299.33,
+        738.0
+      ]
+    },
+    {
+      "text": "Lomun",
+      "confidence": 0.9216,
+      "bbox": [
+        328.67,
+        726.0,
+        358.0,
+        738.0
+      ]
+    },
+    {
+      "text": "Pandhi",
+      "confidence": 0.5211,
+      "bbox": [
+        387.33,
+        724.67,
+        416.67,
+        738.0
+      ]
+    },
+    {
+      "text": "Paxh",
+      "confidence": 0.7093,
+      "bbox": [
+        448.67,
+        726.0,
+        476.67,
+        738.0
+      ]
+    },
+    {
+      "text": "60",
+      "confidence": 0.9996,
+      "bbox": [
+        116.0,
+        796.0,
+        146.67,
+        816.0
+      ]
+    },
+    {
+      "text": "60",
+      "confidence": 0.9992,
+      "bbox": [
+        337.33,
+        796.0,
+        366.67,
+        816.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9996,
+      "bbox": [
+        586.67,
+        796.0,
+        616.0,
+        816.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9995,
+      "bbox": [
+        821.33,
+        796.0,
+        850.67,
+        816.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9967,
+      "bbox": [
+        1056.0,
+        796.0,
+        1085.33,
+        816.0
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.9985,
+      "bbox": [
+        1305.33,
+        796.0,
+        1334.67,
+        817.33
+      ]
+    },
+    {
+      "text": "Jup",
+      "confidence": 0.4709,
+      "bbox": [
+        824.67,
+        816.67,
+        843.33,
+        826.0
+      ]
+    },
+    {
+      "text": "Mininda",
+      "confidence": 0.5898,
+      "bbox": [
+        1050.0,
+        816.67,
+        1086.0,
+        826.0
+      ]
+    },
+    {
+      "text": "Pepsi",
+      "confidence": 0.7495,
+      "bbox": [
+        1306.0,
+        816.67,
+        1331.33,
+        827.33
+      ]
+    },
+    {
+      "text": "So0 mi",
+      "confidence": 0.5145,
+      "bbox": [
+        114.0,
+        824.67,
+        144.67,
+        834.0
+      ]
+    },
+    {
+      "text": "Coo ri",
+      "confidence": 0.4179,
+      "bbox": [
+        584.67,
+        824.67,
+        614.0,
+        834.0
+      ]
+    },
+    {
+      "text": "Godmi",
+      "confidence": 0.4504,
+      "bbox": [
+        1054.0,
+        826.0,
+        1083.33,
+        834.0
+      ]
+    },
+    {
+      "text": "Goom",
+      "confidence": 0.4291,
+      "bbox": [
+        1304.67,
+        826.0,
+        1334.0,
+        835.33
+      ]
+    },
+    {
+      "text": "B",
+      "confidence": 0.995,
+      "bbox": [
+        40.0,
+        901.33,
+        61.33,
+        922.67
+      ]
+    },
+    {
+      "text": "B",
+      "confidence": 0.8193,
+      "bbox": [
+        104.0,
+        902.67,
+        124.0,
+        924.0
+      ]
+    },
+    {
+      "text": "B",
+      "confidence": 0.9931,
+      "bbox": [
+        165.33,
+        902.67,
+        182.67,
+        924.0
+      ]
+    },
+    {
+      "text": "B",
+      "confidence": 0.9975,
+      "bbox": [
+        226.67,
+        904.0,
+        246.67,
+        924.0
+      ]
+    },
+    {
+      "text": "Bozr",
+      "confidence": 0.5591,
+      "bbox": [
+        281.33,
+        902.67,
+        334.67,
+        938.67
+      ]
+    },
+    {
+      "text": "Paper",
+      "confidence": 0.7724,
+      "bbox": [
+        350.67,
+        905.33,
+        400.0,
+        922.67
+      ]
+    },
+    {
+      "text": "Paper",
+      "confidence": 0.7832,
+      "bbox": [
+        417.33,
+        904.0,
+        466.67,
+        922.67
+      ]
+    },
+    {
+      "text": "Amul",
+      "confidence": 0.9994,
+      "bbox": [
+        1220.0,
+        914.67,
+        1260.0,
+        930.67
+      ]
+    },
+    {
+      "text": "Amul",
+      "confidence": 0.9998,
+      "bbox": [
+        1292.67,
+        916.67,
+        1331.33,
+        930.0
+      ]
+    },
+    {
+      "text": "Amul",
+      "confidence": 0.9998,
+      "bbox": [
+        1366.67,
+        916.0,
+        1406.67,
+        932.0
+      ]
+    },
+    {
+      "text": "'boat",
+      "confidence": 0.6799,
+      "bbox": [
+        354.67,
+        918.67,
+        394.67,
+        936.0
+      ]
+    },
+    {
+      "text": "'boat",
+      "confidence": 0.9351,
+      "bbox": [
+        421.33,
+        917.33,
+        461.33,
+        934.67
+      ]
+    },
+    {
+      "text": "Mixed Fruit",
+      "confidence": 0.7229,
+      "bbox": [
+        25.33,
+        946.0,
+        76.0,
+        963.33
+      ]
+    },
+    {
+      "text": "Orange",
+      "confidence": 0.9991,
+      "bbox": [
+        93.33,
+        946.0,
+        135.33,
+        966.0
+      ]
+    },
+    {
+      "text": "Orange",
+      "confidence": 0.9931,
+      "bbox": [
+        152.67,
+        947.33,
+        194.67,
+        968.0
+      ]
+    },
+    {
+      "text": "BBull RedBdl RedBul",
+      "confidence": 0.4674,
+      "bbox": [
+        835.33,
+        936.0,
+        994.0,
+        963.33
+      ]
+    },
+    {
+      "text": "NescaFE",
+      "confidence": 0.7778,
+      "bbox": [
+        998.67,
+        944.0,
+        1056.0,
+        962.67
+      ]
+    },
+    {
+      "text": "(Nescafe",
+      "confidence": 0.7916,
+      "bbox": [
+        1068.0,
+        942.67,
+        1126.0,
+        964.67
+      ]
+    },
+    {
+      "text": "NescaFe",
+      "confidence": 0.7923,
+      "bbox": [
+        1142.0,
+        944.67,
+        1197.33,
+        964.67
+      ]
+    },
+    {
+      "text": "CaTORADE",
+      "confidence": 0.4107,
+      "bbox": [
+        576.67,
+        978.0,
+        622.0,
+        991.33
+      ]
+    },
+    {
+      "text": "aen",
+      "confidence": 0.6741,
+      "bbox": [
+        295.33,
+        1000.67,
+        315.33,
+        1008.67
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 0.8439,
+      "bbox": [
+        1140.67,
+        996.67,
+        1152.67,
+        1012.67
+      ]
+    },
+    {
+      "text": "panna",
+      "confidence": 0.6483,
+      "bbox": [
+        299.33,
+        1007.33,
+        326.0,
+        1016.67
+      ]
+    },
+    {
+      "text": "40",
+      "confidence": 1.0,
+      "bbox": [
+        120.0,
+        1045.33,
+        150.67,
+        1065.33
+      ]
+    },
+    {
+      "text": "35",
+      "confidence": 1.0,
+      "bbox": [
+        345.33,
+        1045.33,
+        373.33,
+        1066.67
+      ]
+    },
+    {
+      "text": "75",
+      "confidence": 0.6008,
+      "bbox": [
+        612.0,
+        1045.33,
+        641.33,
+        1066.67
+      ]
+    },
+    {
+      "text": "110",
+      "confidence": 0.9998,
+      "bbox": [
+        884.0,
+        1045.33,
+        918.67,
+        1066.67
+      ]
+    },
+    {
+      "text": "40",
+      "confidence": 1.0,
+      "bbox": [
+        1124.0,
+        1046.67,
+        1154.67,
+        1066.67
+      ]
+    },
+    {
+      "text": "30",
+      "confidence": 1.0,
+      "bbox": [
+        1318.67,
+        1046.67,
+        1348.0,
+        1068.0
+      ]
+    },
+    {
+      "text": "8 MATURAL",
+      "confidence": 0.4981,
+      "bbox": [
+        108.67,
+        1066.0,
+        155.33,
+        1076.67
+      ]
+    },
+    {
+      "text": "ReO BULL",
+      "confidence": 0.5235,
+      "bbox": [
+        879.33,
+        1067.33,
+        918.0,
+        1076.67
+      ]
+    },
+    {
+      "text": "NescaFE",
+      "confidence": 0.4111,
+      "bbox": [
+        1118.0,
+        1066.0,
+        1155.33,
+        1076.67
+      ]
+    },
+    {
+      "text": "Soomi",
+      "confidence": 0.6446,
+      "bbox": [
+        608.67,
+        1075.33,
+        638.0,
+        1084.67
+      ]
+    },
+    {
+      "text": "250 mi",
+      "confidence": 0.432,
+      "bbox": [
+        884.67,
+        1075.33,
+        914.0,
+        1084.67
+      ]
+    },
+    {
+      "text": "Rlo",
+      "confidence": 0.9392,
+      "bbox": [
+        580.22,
+        80.65,
+        611.78,
+        104.01
+      ]
+    },
+    {
+      "text": "Rid",
+      "confidence": 0.6192,
+      "bbox": [
+        765.45,
+        81.37,
+        795.22,
+        102.63
+      ]
+    },
+    {
+      "text": "FANTA",
+      "confidence": 0.8225,
+      "bbox": [
+        1088.98,
+        392.3,
+        1150.36,
+        427.7
+      ]
+    },
+    {
+      "text": "Mope",
+      "confidence": 0.5533,
+      "bbox": [
+        739.14,
+        410.86,
+        775.53,
+        434.48
+      ]
+    },
+    {
+      "text": "TEE",
+      "confidence": 0.5413,
+      "bbox": [
+        625.61,
+        672.63,
+        681.05,
+        716.03
+      ]
+    },
+    {
+      "text": "ZEZ",
+      "confidence": 0.4744,
+      "bbox": [
+        564.19,
+        673.3,
+        619.81,
+        716.04
+      ]
+    },
+    {
+      "text": "ZE",
+      "confidence": 0.4777,
+      "bbox": [
+        498.72,
+        674.67,
+        552.61,
+        714.66
+      ]
+    },
+    {
+      "text": "NESTEA",
+      "confidence": 0.4589,
+      "bbox": [
+        17.92,
+        691.34,
+        75.41,
+        722.0
+      ]
+    },
+    {
+      "text": "NESTEA",
+      "confidence": 0.8084,
+      "bbox": [
+        137.98,
+        691.29,
+        194.02,
+        722.04
+      ]
+    },
+    {
+      "text": "NESTEA",
+      "confidence": 0.8348,
+      "bbox": [
+        196.11,
+        691.68,
+        253.22,
+        720.99
+      ]
+    },
+    {
+      "text": "Natural",
+      "confidence": 0.9524,
+      "bbox": [
+        26.65,
+        915.09,
+        76.01,
+        938.24
+      ]
+    },
+    {
+      "text": "Natural",
+      "confidence": 0.6829,
+      "bbox": [
+        91.77,
+        916.76,
+        138.23,
+        937.24
+      ]
+    },
+    {
+      "text": "Noturol",
+      "confidence": 0.9442,
+      "bbox": [
+        151.32,
+        917.76,
+        198.68,
+        940.24
+      ]
+    },
+    {
+      "text": "Noturol",
+      "confidence": 0.999,
+      "bbox": [
+        212.65,
+        917.78,
+        261.35,
+        940.22
+      ]
+    },
+    {
+      "text": "Ko",
+      "confidence": 0.6379,
+      "bbox": [
+        1216.23,
+        922.25,
+        1269.77,
+        967.08
+      ]
+    }
+  ],
+  "assumptions": [
+    "YOLO26s is the baseline detector; retail-fine-tuned YOLO26 weights are recommended for final product-facing recall.",
+    "Overlapping tiled inference is used to improve recall for small products in high-resolution shelf images.",
+    "CLIP is a zero-shot brand baseline unless a reference gallery is configured.",
+    "Share-of-shelf is an approximate horizontal facing proxy, not calibrated physical shelf area.",
+    "OCR quality depends on label resolution, angle, blur, and lighting."
+  ]
+}
