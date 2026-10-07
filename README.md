@@ -50,7 +50,7 @@ a practical zero-shot baseline without requiring a brand-labeled training set.
 For production SKU recognition, replace this with an embedding/reference-gallery
 system or a fine-tuned classifier.
 
-### PaddleOCR
+### EasyOCR
 Used to extract visible price/shelf-label text. OCR is intentionally treated
 as a separate stage because product detection and price-tag reading have
 different visual characteristics.
