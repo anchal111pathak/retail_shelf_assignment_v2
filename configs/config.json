@@ -1,0 +1,37 @@
+{
+  "detector": {
+    "model": "best.pt",
+    "confidence": 0.15,
+    "iou": 0.45,
+    "imgsz": 1280,
+    "device": "auto",
+    "tiled_inference": true,
+    "tile_size": 900,
+    "tile_overlap": 0.20
+  },
+  "classifier": {
+    "model": "openai/clip-vit-base-patch32",
+    "min_confidence": 0.45,
+    "reference_gallery": "data/brand_gallery",
+    "brands": [
+      "Coca-Cola", "Pepsi", "Sprite", "Fanta", "Limca", "7UP", "Mountain Dew", "Thums Up",
+      "Tropicana", "Real", "Minute Maid", "Nestle", "Amul", "Mother Dairy", "Activia",
+      "Actimel", "Yakult", "Hershey's", "Red Bull", "Nescafe", "Gatorade", "Milky Mist",
+      "Paper Boat", "Lay's", "Doritos", "Cheetos", "Kurkure", "Uncle Chipps", "Bingo",
+      "Pringles", "Parle-G", "Good Day", "Oreo", "Tiger", "Hide & Seek", "Dark Fantasy",
+      "Monaco", "Other"
+    ]
+  },
+ "ocr": {
+    "lang": "en",
+    "min_confidence": 0.40,
+    "upscale": 1.5,
+    "cpu_threads": 2,
+    "text_detection_model_name": "PP-OCRv5_mobile_det",
+    "text_recognition_model_name": "en_PP-OCRv5_mobile_rec",
+    "engine": "paddle_dynamic"
+},
+  "shelf": {
+    "min_row_height": 25
+  }
+}
